@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(218, 172, 103);
+}
+.contact-page {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.images {
+    width: 1020px;
+    height: 1049px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.images__blob-lines {
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.images__two-chairs {
+    width: 873px;
+    height: 597px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    margin-top: 150px;
+}
+h1 {
+    color: #3E4D3C;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 136px;
+    letter-spacing: 4%;
+    
+}
